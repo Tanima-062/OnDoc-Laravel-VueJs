@@ -1,0 +1,790 @@
+{
+    "Product Documents" : "Produkt-Dokumente",
+    "App Users" : "App Nutzer",
+    "Sub Admin Users" : "Sub-Admin Nutzer",
+    "Supplier" : "Lieferant",
+    "Categories" : "Kategorien",
+    "LogIn" : "Login",
+    "Email" : "E-Mail",
+    "hello :name" : "Hallo :name",
+    "Companies" : "Firmen",
+    "Company Admin" : "Firmen-Admin",
+    "Log Out" : "Abmelden",
+    "System Admin" : "System-Admin",
+    "Company Sub Admin" : "Firmen-Sub-Admin",
+    "Add Category" : "Kategorie hinzufügen",
+    "Category ID" : "Kategorie-ID",
+    "Category Name" : "Kategoriename",
+    "Total Products" : "Alle Produkte",
+    "Filter" : "Filter",
+    "Entries per page:" : "Einträge pro Seite",
+    "First Name*" : "Vorname*",
+    "First Name" : "Vorname",
+    "Last Name*" : "Nachname*",
+    "Last Name" : "Nachname ",
+    "Email*" : "E-Mail*",
+    "Select Language" : "Sprache wählen",
+    "Send Invitation" : "Einladung senden",
+    "English" : "Englisch",
+    "Maximum :length characters allowed" : "Maximale Zeichenlänge ",
+    "Invalid email, please add a valid email address" : "Ungültige E-Mail, bitte fügen Sie eine gültige E-Mail Adresse hinzu",
+    "Phone Number" : "Telefonnummer",
+    "Company" : "Firma",
+    "Password" : "Passwort",
+    "Set password" : "Passwort festlegen",
+    "Confirm Password" : "Passwort bestätigen",
+    "Repeat password" : "Passwort wiederholen",
+    "Accept" : "Akzeptieren",
+    "terms of use" : "Nutzungsbedingungen",
+    "Submit Registration" : "Registrierung einreichen",
+    "E-Mail" : "E-Mail",
+    "Company Name" : "Firmen-Name",
+    "Add Company" : "Firma hinzufügen",
+    "Select Company" : "Firma auswählen",
+    "Select Status" : "Status auswählen",
+    "Add User" : "Nutzer hinzufügen",
+    "User ID" : "Nutzer-ID",
+    "Status" : "Status  ",
+    "Delete Mobile App User?" : "Mobile App-Nutzer löschen?",
+    "Are you sure to delete this account and remove access to all company documents?" : "Sind Sie sicher, dass Sie dieses Konto löschen und auf den Zugriff auf alle Dokumente verzichten möchten?",
+    "Registration is successful!" : "Ihre Registrierung war erfolgreich!",
+    "Now you can login using the app on your phone." : "Sie können sich nun über die App auf Ihrem Smartphone einloggen",
+    "Go Back" : "Zurück",
+    "Cancel" : "Abbrechen",
+    "Activate" : "Aktivieren",
+    "Deactivate" : "Deaktivieren",
+    "Delete" : "Löschen",
+    "View Details" : "Details einsehen",
+    "Edit" : "Bearbeiten",
+    "Are You Sure" : "Sind Sie sicher?",
+    "Yes" : "Ja ",
+    "No" : "Nein",
+    "Language" : "Sprache",
+    ":status Mobile App User?" : ":status Mobile-App-Nutzer?",
+    "Are you sure you want to :status the user “:user”?" : "Sind Sie sicher, dass Sie den Nutzer \":user\" :status?",
+    "Preferred Language" : "Bevorzugte Sprache",
+    "Notification" : "Benachrichtigung",
+    "App User “:name” was successfully Deactivated" : "App-Nutzer \":name\" wurde erfolgreich deaktiviert",
+    "App User “:name” was successfully Activated" : "App-Nutzer \":name\" wurde erfolgreich aktiviert",
+    "Delete Category?" : "Kategorie löschen?",
+    "Are you sure you want to delete the category “:name”?" : "Sind Sie sicher, dass Sie die Kategorie \":name\" löschen möchten?",
+    "Add a Category" : "Kategorie hinzufügen",
+    "Name" : "Name",
+    "Save" : "Speichern",
+    "Category “:name” already exist" : "Die Kategorie \":name\" existiert bereits",
+    "Category “:name” successfully created." : "Die Kategorie \":name\" wurde erfolgreich erstellt",
+    "Category “:name” successfully updated." : "Die Kategorie \":name\" wurde erfolgreich aktualisiert",
+    "Category “:name” was successfully deleted" : "Die Kategorie \":name\" wurde erfolgreich gelöscht",
+    "Add Supplier" : "Lieferant hinzufügen",
+    "Supplier ID" : "Lieferanten-ID",
+    "Supplier Name" : "Lieferantenname",
+    "Product Document Details" : "Details Produkt-Dokument",
+    "Are you sure to delete supplier “:name”?" : "Sind Sie sicher, dass Sie den Lieferanten \":name\" löschen möchten?",
+    "Delete Supplier?" : "Lieferant löschen?",
+    "Supplier “:name” was successfully created" : "Lieferant \":name\" wurde erfolgreich erstellt",
+    "Supplier “:name” was successfully updated" : "Lieferant \":name\" wurde erfolgreich aktualisiert",
+    "Supplier “:name” was successfully deleted" : "Lieferant \":name\" wurde erfolgreich gelöscht",
+    "Address" : "Adresse",
+    "Street" : "Strasse",
+    "House number" : "Hausnummer",
+    "Location*" : "Standort",
+    "Country*" : "Land",
+    "Contact Info" : "Kontaktdaten",
+    "Contact Person name" : "Kontaktperson Name",
+    "Contact Person Email" : "Kontaktperson E-Mail",
+    "eg. john@gmail.com" : "Bsp.: john@gmail.de",
+    "Supplier “:name” already exist" : "Lieferant \":name\" existiert bereits",
+    "Edit Supplier" : "Lieferant bearbeiten",
+    "Admin ID" : "Admin-ID",
+    "User Management" : "Nutzermanagement",
+    "Full Permission" : "Vollständige Genehmigung",
+    "Add Sub Admin User" : "Sub-Admin-Nutzer hinzufügen",
+    "Edit Sub Admin User" : "Sub-Admin-Nutzer bearbeiten",
+    "Choose Permision" : "Genehmigung auswählen",
+    "Sub Admin “:name” was successfully deactivated" : "Sub-Admin \":name\" wurde erfolgreich deaktiviert",
+    "Sub Admin “:name” was successfully activated" : "Sub-Admin \":name\" wurde erfolgreich aktiviert",
+    "Permission" : "Genehmigung",
+    ":status Sub Admin User?" : ":status Sub-Admin-Nutzer?",
+    "Send Initation" : "Einladung senden",
+    "Sub admin “:name” was successfully created" : "Sub-Admin \":name\" wurde erfolgreich erstellt",
+    "Sub admin “:name” was successfully updated" : "Sub-Admin \":name\" wurde erfolgreich aktualisiert",
+    "Save changes" : "Änderungen speichern",
+    "Total PDFs" : "Alle PDFs",
+    "Creation Date" : "Erstellungsdatum",
+    "Full Name" : "Vollständiger Name",
+    "Admin Type" : "Admin-Art",
+    "Product ID" : "Produkt-ID",
+    "Product Name" : "Produktname",
+    "Add Product" : "Produkt hinzufügen",
+    "Add New Product Document" : "Neues Produkt-Dokument hinzufügen",
+    "Technical documents" : "Technische Dokumente",
+    "Supplier documents" : "Lieferanten-Dokumente",
+    "Drawings" : "Zeichnungen",
+    "Instructions" : "Anleitungen",
+    "Modifications Guides" : "Änderungs-Anleitung",
+    "Document Name" : "Dokumentenname",
+    "Document Type" : "Dokumenten-Art",
+    "PDF Access" : "PDF Zugriff",
+    "Add more" : "Mehr hinzufügen",
+    "Edit Product Document" : "Produkt-Dokument bearbeiten",
+    "Serial Nr." : "Seriennummer",
+    "View PDF" : "PDF ansehen",
+    "View QR Code" : "QR-Code ansehen",
+    "Products" : "Produkte",
+    "Choose Company" : "Firma auswählen",
+    "Admin “:name” was successfully created" : "Admin \":name\" wurde erfolgreich erstellt",
+    "Admin “:name” was successfully updated" : "Admin \":name\" wurde erfolgreich aktualisiert",
+    "Admin “:name” was successfully deactivated" : "Admin \":name\" wurde erfolgreich deaktiviert",
+    "Admin “:name” was successfully activated" : "Admin \":name\" wurde erfolgreich aktiviert",
+    "Edit Admin User" : "Admin-Nutzer bearbeiten",
+    ":status Admin User?" : ":status Admin-Nutzer?",
+    "Sign in" : "Anmelden",
+    "Email :slash password is not correct" : "E-Mail :slash Passwort ist nicht korrekt",
+    "Forgot Password?" : "Passwort vergessen?",
+    "Change password" : "Passwort ändern",
+    "Sign Out" : "Abmelden",
+    "Settings" : "Einstellungen",
+    "Enter Old Password" : "Altes Passwort eingeben",
+    "Enter New Password" : "Neues Passwort eingeben",
+    "Repeat the New Password" : "Neues Passwort wiederholen",
+    "Your password has been changed successfully" : "Passwort wurde erfolgreich geändert",
+    "Change Language" : "Sprache ändern",
+    "Change language" : "Sprache ändern",
+    "Are you sure you want to sign out?" : "Sind Sie sicher, dass Sie sich abmelden möchten?",
+    "Change Password" : "Passwort ändern",
+    "Allow Public View" : "Veröffentlichen",
+    "Company ID" : "Firmen-ID",
+    "Company Logo" : "Firmen-Logo",
+    "Company Address" : "Firmen-Adresse",
+    "Street Name" : "Strassenname",
+    "Street Number" : "Strassennummer",
+    "Zip Code" : "Postleitzahl",
+    "City" : "Stadt",
+    "Country" : "Land",
+    "Contact Person" : "Kontaktperson",
+    "Select Photo" : "Bild auswählen",
+    "Clear Photo" : "Bild entfernen",
+    "Company “:name” was successfully created" : "Firma \":name\" wurde erfolgreich erstellt",
+    "Company “:name” was successfully updated" : "Firma \":name\" wurde erfolgreich aktualisiert",
+    "Edit Company" : "Firma bearbeiten",
+    "Remove Image" : "Bild entfernen",
+    "Company “:name” already exist" : "Firma \":name\" existiert bereits",
+    "Add Product Documents" : "Produkt-Dokumente hinzufügen",
+    "Export as PDF": "Als PDF exportieren",
+    "PDF Export": "PDF-Export",
+    "You have requested a PDF export with the products and the QR code.": "Sie haben einen PDF-Export mit den Produkten und dem QR-Code angefordert.",
+    "Please find attached the PDF.": "Bitte finden Sie das PDF im Anhang.",
+    "Discard changes?": "Änderungen verwerfen?",
+    "Select Permission": "Berechtigung auswählen",
+    "If you go back or cancel without saving, all changes will be discarded. Are you sure you really want to discard the changes?": "Wenn Sie zurückgehen oder abbrechen ohne Ihre Eingaben zuvor gespeichert zu haben, werden alle Änderungen verworfen. Sind Sie sicher, dass Sie alle Änderungen verwerfen möchten?",
+    "No problem! Please enter your registered email address and we will send you instructions on how to reset your password.": "Kein Problem! Bitte geben Sie die von Ihnen registrierte E-Mail Adresse ein und wir senden Ihnen eine Anleitung, wie Sie Ihr Passwort zurücksetzen können",
+    "eg. john.doe@mail.com": "Bsp.: john.doe@gmail.com",
+    "The entered email is not registered on the system": "Die eingegebene E-Mail ist nicht registriert",
+    "Go back to Login": "Zurück zum Login",
+    "Send Instruction": "Anleitungen senden",
+    "Please enter and confirm your new password to reset your password.": "Bitte geben Sie Ihr Passwort ein und bestätigen Sie es, um es zurückzusetzen.",
+    "Inactive": "Inaktiv",
+    "Pending": "Ausstehend",
+    "Active": "Aktiv",
+    "Category": "Kategorie",
+    "Add App User": "App-Nutzer hinzufügen",
+    "Now you can login with your new password": "Sie können sich nun mithilfe Ihres neuen Passworts anmelden",
+    "Congratulations! Password Updated Successfully": "Glückwunsch! Ihr Passwort wurde erfolgreich aktualisiert",
+    "Congratulations!": "Glückwunsch!  ",
+    "Password Updated Successfully": "Passwort erfolgreich aktualisiert",
+    "Please wait for the upload to be completed": "Warten Sie bitte, bis der Upload abgeschlossen wurde",
+    "Select Category": "Kategorie wählen",
+    "Select Supplier": "Lieferanten wählen",
+    "OnDoc App Access Invitation": "OnDoc App-Zugangs-Einladung ",
+    "Hello": "Hallo   ",
+    "OnDoc App Invitation": "OnDoc App-Einladung",
+    "You are invited to access the documents of the “:name”": "Sie wurden dazu eingeladen, die Dokumente \":name\" einzusehen",
+    "Please use the link below to register and access the app.": "Bitte nutzen Sie den unteren Link, um sich zu registrieren und zur App Zugang zu erhalten",
+    "Registration link button": "Registrierungs-Link Button",
+    "OnDoc Admin Access Invitation": "OnDoc Admin Zugangs-Einladung",
+    "You are invited to access the admin panel of OnDoc for “:name”": "Sie wurden dazu eingeladen, das Admin Panel von OnDoc für \":name\" einzusehen",
+    "Please login with your email and the password below": "Loggen Sie sich bitte unten mit Ihrer E-Mail und Ihrem Passwort ein",
+    "OnDoc - Password Reset": "OnDoc - Zurücksetzen des Passworts",
+    "You have requested to reset your password, please enter below OTP to reset your password": "Sie möchten Ihr Passwort zurücksetzen - bitte geben Sie unten OTP ein, um Ihr Passwort zurückzusetzen",
+    "You have requested to reset your password, please login with the new password below": "Sie möchten Ihr Passwort zurücksetzen - bitte melden Sie sich mit Ihrem neuen Passwort ein",
+    "OnDoc Company Admin Access Invitation": "OnDoc Unternehmens-Admin Zugangs-Einladung",
+    "Print QR Code": "QR-Code ausdrucken",
+    "Download QR Code": "QR-Code herunterladen",
+    "Allowed Public View": "Öffentliche Ansicht genehmigt",
+    "Disabled Public View": "Öffentliche Ansicht deaktiviert",
+    "Add Admin User": "Admin-Nutzer hinzufügen",
+    "“:email” already registered on the system as an app user": "\":email\" wurde bereits im System als App-Nutzer registriert",
+    "Please Add At Least One Supplier And One Category To Add A Product Document": "Bitte fügen Sie mindestens einen Lieferanten und eine Kategorie hinzu, um ein Produkt-Dokument hinzuzufügen",
+    "Please Add At Least One Category To Add A Product Document": "Bitte fügen Sie mindestens eine Kategorie hinzu, um ein Produkt-Dokument hinzuzufügen",
+    "Please Add At Least One Supplier To Add A Product Document": "Bitte fügen Sie mindestens einen Lieferanten hinzu, um en Produkt-Dokument hinzuzufügen",
+    "Email already registered on the system": "Die E-Mail wurde im System bereits registriert",
+    "Max :mb MB | JPG or PNG only": "Max :mb ausschliesslich MB | JPG oder PNG",
+    "Submit": "Einreichen",
+    "Delete Product?": "Produkt löschen?",
+    "Are you sure you want to delete :product_name?": "Sie Sie sicher, dass Sie \":product_name\" löschen möchten?",
+    "Successfully deleted the product": "Sie haben das Produkt erfolgreich gelöscht",
+    "Password doesn't match": "Die Passwörter stimmen nicht überein",
+    "The confirm password field is required.": "Das Feld 'Passwort bestätigen' ist erforderlich",
+    "The password field is required.": "Das Passwortfeld ist erforderlich",
+    "Export to Excel": "Zu Excel exportieren",
+    "Please enter the the old password correctly": "Bitte geben Sie das alte Passwort korrekt ein",
+    "Warranty Start Date": "Startdatum der Garantie",
+    "Warranty End Date": "Enddatum der Garantie",
+    "Serial Number": "Seriennummer",
+    "Product": "Produkt",
+    "Created by": "Erstellt von",
+    "Min 8 characters with at least a letter, number and symbol": "Mindestens 8 Zeichen mit mindestens einem Buchstaben, einer Zahl und einem Symbol"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
