@@ -1,6 +1,6 @@
 # Ondoc
 
-# This File Mangement System and zip files and store in folder
+# This is File Mangement System and zip files and store in folder
 ## Requirements
 - Your PHP version must be >= 8.1+ 
 - Redis Server
